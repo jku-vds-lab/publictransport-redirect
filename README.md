@@ -1,2 +1,2 @@
-# coral-redirect
-temporary redirect from coral.app.jku-vds-lab.at to coral.caleydoapp.org
+# publictransport-redirect
+temporary redirect from publictransport.jku-vds-lab.at to publictransport.caleydoapp.org
